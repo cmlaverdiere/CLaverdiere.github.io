@@ -1,0 +1,11 @@
+# Site settings
+title: Chris Laverdiere
+email: cmlaverdiere@gmail.com
+description: programming, math, vim / emacs, music
+baseurl: ""
+url: "http://cmlaverdiere.net" # the base hostname & protocol for your site
+twitter_username: CMLaverdiere
+github_username:  CLaverdiere
+
+# Build settings
+markdown: kramdown
