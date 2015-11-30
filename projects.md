@@ -12,6 +12,10 @@ An android rendition of the classic board game Othello. Will open-source soon.
 
 A compiler for the bebop programming language.
 
+### [Cscribe](https://github.com/CLaverdiere/cscribe)
+
+A curses-based C program for transcribing music.
+
 ### [Four to the Fifth](http://userpages.umbc.edu/~chlaver1/Four-to-the-Fifth/game.html)
 
 A top-down shooter game using the HTML5 Quintus game engine.
