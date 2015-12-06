@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   id="svg3352"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 32 32"
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="/home/chris/devel/sites/pers_jek/blog/favicon.ico"
+   inkscape:export-xdpi="94.326332"
+   inkscape:export-ydpi="94.326332">
+  <defs
+     id="defs3354" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.395604"
+     inkscape:cx="11.81724"
+     inkscape:cy="16.963866"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1200"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3357">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       id="g3433"
+       transform="translate(1.2055937,-0.08930324)">
+      <g
+         style="fill:#aaccff"
+         id="g3385-9"
+         transform="matrix(1.0252226,0,0,1.0252226,-0.98836266,-0.66150512)">
+        <circle
+           style="fill:#aaccff"
+           id="path3368-76"
+           cx="15.98528"
+           cy="15.79146"
+           r="13.975957" />
+        <circle
+           style="fill:#aaccff"
+           id="path3368-7-5"
+           cx="20.807652"
+           cy="18.024042"
+           r="11.29686" />
+      </g>
+      <g
+         id="g3385">
+        <circle
+           style="fill:#3771c8"
+           id="path3368"
+           cx="15.98528"
+           cy="15.79146"
+           r="13.975957" />
+        <circle
+           style="fill:#ffffff"
+           id="path3368-7"
+           cx="20.807652"
+           cy="18.024042"
+           r="11.29686" />
+      </g>
+      <circle
+         r="3.9516683"
+         cy="27.780422"
+         cx="23.151865"
+         id="path3429"
+         style="fill:#ffffff" />
+      <ellipse
+         ry="2.2325809"
+         rx="2.2772326"
+         cy="11.772816"
+         cx="29.559372"
+         id="path3431"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>
