@@ -6,7 +6,7 @@ permalink: /projects/
 
 ### Android Othello
 
-An android rendition of the classic board game Othello. Will open-source soon.
+An android rendition of the classic board game Othello. [(Video)](https://www.youtube.com/watch?v=cgYr_8iPR-I&feature=youtu.be)
 
 ### [Bebop Compiler](https://github.com/CLaverdiere/bebop)
 
@@ -18,7 +18,7 @@ A curses-based C program for transcribing music.
 
 ### [Four to the Fifth](http://userpages.umbc.edu/~chlaver1/Four-to-the-Fifth/game.html)
 
-A top-down shooter game using the HTML5 Quintus game engine.
+A top-down shooter game using the HTML5 Quintus game engine. [(Video)](https://www.youtube.com/watch?v=6s_N5K5lEe0)
 
 ### [Fractal Art](https://github.com/CLaverdiere/Fractals)
 
