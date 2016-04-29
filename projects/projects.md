@@ -32,9 +32,9 @@ A site to host a wide range of computer generated graphics.
 
 An app for sharing groceries with your neighbor.
 
-### Raytracer in C++
+### [Raytracer]({{ site.baseurl }}/projects/raytracer)
 
-A raytracer supporting basic shading, shadows, reflections, etc. Will open-source soon.
+A C++ raytracer supporting basic shading, shadows, reflections, etc.
 
 ### [SLMobileMech](http://slmm.herokuapp.com/)
 
