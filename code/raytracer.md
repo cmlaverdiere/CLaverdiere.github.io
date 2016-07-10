@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Raytracer
-permalink: /projects/raytracer
+permalink: /code/raytracer
 ---
 
 [The sauce](https://github.com/CLaverdiere/raytracer)
