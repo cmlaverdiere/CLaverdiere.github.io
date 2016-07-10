@@ -4,6 +4,8 @@ title: Code
 permalink: /code/
 ---
 
+Sources can be found on [github](https://github.com/CLaverdiere?tab=repositories).
+
 ## Graphics
 
 [**Pathtracer**](https://github.com/CLaverdiere/pathtracer): Renderer, current hobby, WIP.
