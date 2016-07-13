@@ -4,7 +4,6 @@ email: cmlaverdiere@gmail.com
 description: Ay carumba!
 baseurl: ""
 url: "http://cmlaverdiere.net" # the base hostname & protocol for your site
-twitter_username: CMLaverdiere
 github_username:  CLaverdiere
 
 # Build settings
