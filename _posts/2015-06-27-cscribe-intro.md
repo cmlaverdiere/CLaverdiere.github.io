@@ -31,4 +31,4 @@ And a list of keybindings:
 
 ![cscribe help screen](/assets/cscribe/cscribe_help.png){: .center :}
 
-Source on [Github](https://github.com/CLaverdiere/cscribe)
+Source on [Github](https://github.com/cmlaverdiere/cscribe)

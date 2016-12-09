@@ -4,11 +4,11 @@ title: Code
 permalink: /code/
 ---
 
-Sources can be found on [github](https://github.com/CLaverdiere?tab=repositories).
+Sources can be found on [github](https://github.com/cmlaverdiere?tab=repositories).
 
 ## Graphics
 
-[**Pathtracer**](https://github.com/CLaverdiere/pathtracer): Renderer, current hobby, WIP.
+[**Pathtracer**](https://github.com/cmlaverdiere/pathtracer): Renderer, current hobby, WIP.
 
 [**Raytracer**]({{ site.baseurl }}/code/raytracer): Renderer supporting basic shading, shadows, reflections, etc.
 
@@ -20,11 +20,11 @@ Sources can be found on [github](https://github.com/CLaverdiere?tab=repositories
 
 ## Misc
 
-[**Bebop**](https://github.com/CLaverdiere/bebop): Compiler for the bebop programming language.
+[**Bebop**](https://github.com/cmlaverdiere/bebop): Compiler for the bebop programming language.
 
-[**Cscribe**](https://github.com/CLaverdiere/cscribe): Curses-based C program for transcribing music.
+[**Cscribe**](https://github.com/cmlaverdiere/cscribe): Curses-based C program for transcribing music.
 
-[**Fractal Art**](https://github.com/CLaverdiere/Fractals): Algorithmically generated images of fractals and other patterns in math.
+[**Fractal Art**](https://github.com/cmlaverdiere/Fractals): Algorithmically generated images of fractals and other patterns in math.
 
 ## Web
 
@@ -33,4 +33,3 @@ Sources can be found on [github](https://github.com/CLaverdiere?tab=repositories
 [**GFXHub**](http://gfxhub.herokuapp.com): Site to host a wide range of computer generated graphics.
 
 [**Pantry**](https://app-pantry.herokuapp.com/): An app for sharing groceries with your neighbor.
-

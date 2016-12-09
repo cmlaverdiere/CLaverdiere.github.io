@@ -4,7 +4,7 @@ title: Raytracer
 permalink: /code/raytracer
 ---
 
-[The sauce](https://github.com/CLaverdiere/raytracer)
+[The sauce](https://github.com/cmlaverdiere/raytracer)
 
 I wrote a C++ Raytracer a while back. Here's some cool pictures from it.
 
