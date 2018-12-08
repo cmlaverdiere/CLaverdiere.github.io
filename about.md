@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm a software engineer at the Hopkins Applied Physics lab. I studied Computer
-Science and Mathematics at the University of Maryland, Baltimore County. I'm
-also a big supporter of Linux, and free software in general.
+I'm a software engineer.
 
 You can see some of the things I've worked on [here]({{ site.baseurl }}/code/).
+
+Das all.
