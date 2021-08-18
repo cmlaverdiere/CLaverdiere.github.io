@@ -1,0 +1,7 @@
+Because you will forget this:
+
+> sudo gem install jekyll
+> jekyll serve --force_polling
+
+If you update the config, the watcher won't pick it up. You need to change one
+of the html template files and reload the site in browser.

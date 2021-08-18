@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm a software engineer.
+Software engineer currently working at [Datadog](https://www.datadoghq.com/) in NYC.
 
-You can see some of the things I've worked on [here]({{ site.baseurl }}/code/).
-
-Das all.
+You can see some other projects I've worked on [here]({{ site.baseurl }}/code/)!

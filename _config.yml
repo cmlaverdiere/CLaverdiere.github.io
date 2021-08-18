@@ -1,10 +1,11 @@
 # Site settings
 title: Chris Laverdiere
 email: cmlaverdiere@gmail.com
-description: Ay carumba!
+description:
 baseurl: ""
 url: "http://cmlaverdiere.net" # the base hostname & protocol for your site
 github_username: cmlaverdiere
+linkedin: chris-laverdiere
 
 # Build settings
 markdown: kramdown
